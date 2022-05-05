@@ -6,17 +6,17 @@ This is a hands-on project completed in order to demonstrate ability in working 
 
 The objectives of this course are the following:
 
-  Task #1: Define single and multi-dimensional NumPy arrays
+     Task #1: Define single and multi-dimensional NumPy arrays
 
-  Task #2: Leverage NumPy built-in methods and functions
+     Task #2: Leverage NumPy built-in methods and functions
 
-  Task #3: Perform mathematical operations in NumPy
+     Task #3: Perform mathematical operations in NumPy
 
-  Task #4: Perform arrays slicing and indexing
+     Task #4: Perform arrays slicing and indexing
 
-  Task #5: Perform elements selection (conditional)
+     Task #5: Perform elements selection (conditional)
 
-  Task #6: Understand pandas fundamentals
+     Task #6: Understand pandas fundamentals
 
   Task #7: Pandas with CSV and HTML data
 
