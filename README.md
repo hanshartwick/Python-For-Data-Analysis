@@ -2,9 +2,9 @@
 Python for Data Analysis: Pandas &amp; NumPy
 
 This is a hands-on project completed in order to demonstrate ability in working with NumPy and Pandas libraries.
+This was a guided course offered by Coursera where The user is given tasks and is expected to complete them autonomously.
 
-
-The objectives of this course are the following:
+The objectives of this project are the following:
 
      Task #1: Define single and multi-dimensional NumPy arrays
 
@@ -28,6 +28,6 @@ The objectives of this course are the following:
 
      Task #11: Perform concatenating and merging with pandas
 
-     Task #12: project and concluding remarks
+     Task #12: Project / Demonstration of ability
 
 Verification of this project and more in depth details about the structure and goals are available here: https://coursera.org/share/efa04904a41f3e08bfb96c8d9aad23f8
